@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="hint_email">Email</string>
+    <string name="helper_required">Requerido</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="card_btn_Login">Iniciar sesión</string>
+    <string name="card_btn_signUp">Registrar</string>
+    <string name="hin_Logout">Cerrar sesión</string>
+    <string name="card_btn_Login_Google">Google</string>
+    <string name="card_btn_Login_Facebook">Facebook</string>
+    <string name="pref_file">con.example.loginfirebase.PREFERENCE_FILE</string>
+</resources>
